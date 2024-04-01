@@ -47,9 +47,9 @@
 
 ### Built With
 
-* [![Java][https://www.java.com/en/]
-* [![JavaScript][JavaScript]][https://www.javascript.com/]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* Java
+* JavaScript 
+* BootStrap 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -57,13 +57,13 @@
 
 
 <!-- GETTING STARTED -->
-Go ahead and dow=wnload code and open in your prefered texteditor or IDE 
+Go ahead and download the code and open it in your prefered text-editor or IDE 
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
+![my screenshot](../Desktop/homePageTodo.png).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
