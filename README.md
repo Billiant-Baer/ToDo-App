@@ -57,7 +57,7 @@ Go ahead and download the code and open it in your prefered text-editor or IDE
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![my screenshot](../Desktop/homePageTodo).
+![my screenshot](../Users/billiantbaer/Desktop/homePageTodo).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
