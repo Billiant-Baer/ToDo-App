@@ -57,7 +57,7 @@ Go ahead and download the code and open it in your prefered text-editor or IDE
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![my screenshot](../Users/billiantbaer/Desktop/homePageTodo).
+![homePageTodo](https://github.com/Billiant-Baer/ToDo-App/assets/149335374/883a4b19-5bc8-4ed5-8b4e-6bf526098ef6)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
