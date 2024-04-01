@@ -2,13 +2,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/Billiant-Baer/ToDo-App">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">TO-DO</h3>
 
   <p align="center">
-    The best Budgeting app, 
+    The best made ToDo app
    
 </div>
 
@@ -26,11 +25,6 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
   </ol>
 </details>
 
@@ -63,7 +57,7 @@ Go ahead and download the code and open it in your prefered text-editor or IDE
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-![my screenshot](../Desktop/homePageTodo.png).
+![my screenshot](../Desktop/homePageTodo).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
